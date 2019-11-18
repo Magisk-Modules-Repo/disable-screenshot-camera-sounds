@@ -3,4 +3,4 @@ name=Disable screenshot and camera sounds
 version=v1.2
 versionCode=3
 author=ant9000
-description=Systemlessly disable both screenshot and camera sounds
+description=Systemlessly disable both screenshot and camera sounds(added android 10 support @compliment)
